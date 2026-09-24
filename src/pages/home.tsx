@@ -346,7 +346,11 @@ function home() {
 
       <AcceptQuestion />
 
-      <footer className="relative pb-24 text-center font-hand text-3xl text-accent">
+      {/* add spacing */}
+
+
+
+      <footer className="relative pb-24 mt-56 text-center font-hand text-3xl text-accent z-50 px-1">
         I'm here. I'm listening. I'm yours.
       </footer>
     </PageBackdrop>
